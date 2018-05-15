@@ -1952,7 +1952,8 @@ var alamode = {
           vals: [defaultValues],
           rendererName: selectedRenderer,
           exclusions: defaultExclusions,
-          inclusions: defaultInclusions
+          inclusions: defaultInclusions,
+          menuLimit: 5000
         }
       )
     } else {
