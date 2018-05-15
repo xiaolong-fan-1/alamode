@@ -219,6 +219,8 @@ h1.mode-error {
 /*Pivot tables*/
 .mode-pivot-table {
   padding: 10px;
+  overflow: scroll;
+  max-height: 1162px
 }
 
 /*Force directed graph*/
