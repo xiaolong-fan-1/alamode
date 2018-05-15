@@ -1953,8 +1953,7 @@ var alamode = {
           rendererName: selectedRenderer,
           exclusions: defaultExclusions,
           inclusions: defaultInclusions,
-          menuLimit: 5000,
-          sorters:{}
+          menuLimit: 5000
         }
       )
     } else {
